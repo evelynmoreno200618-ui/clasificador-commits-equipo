@@ -217,3 +217,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 Ollama.tar.zst
+ollama.tar.zst
